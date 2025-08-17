@@ -1,0 +1,1 @@
+Replace a manual analyst workflow with a Python pipeline that **retrieves, merges, transforms, and stores** environmental data. The pipeline pulls daily weather metrics from an external API, joins them to a local SQLite database of air‑quality and CO₂ observations, computes KPIs, and stores a final enriched dataset for analysis
